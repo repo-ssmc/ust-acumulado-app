@@ -1,0 +1,270 @@
+{
+    "01": {
+        "NOMBRE_MES": "ENERO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.4"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.2"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.1"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.0"
+        }
+    },
+    "02": {
+        "NOMBRE_MES": "FEBRERO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.4"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.2"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        }
+    },
+    "03": {
+        "NOMBRE_MES": "MARZO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.4"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.2"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        }
+    },
+    "04": {
+        "NOMBRE_MES": "ABRIL",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.2"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        }
+    },
+    "05": {
+        "NOMBRE_MES": "MAYO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.3"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        }
+    },
+    "06": {
+        "NOMBRE_MES": "JUNIO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    },
+    "07": {
+        "NOMBRE_MES": "JULIO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    },
+    "08": {
+        "NOMBRE_MES": "AGOSTO",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    },
+    "09": {
+        "NOMBRE_MES": "SEPTIEMBRE",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    },
+    "10": {
+        "NOMBRE_MES": "OCTUBRE",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    },
+    "11": {
+        "NOMBRE_MES": "NOVIEMBRE",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    },
+    "12": {
+        "NOMBRE_MES": "DICIEMBRE",
+        "ANIO": 2025,
+        "A": {
+            "SERIE": "SERIE A",
+            "VERSION": "1.5"
+        },
+        "B": {
+            "SERIE": "SERIE BS",
+            "VERSION": "1.4"
+        },
+        "BM": {
+            "SERIE": "SERIE BM ESTABLECIMIENTOS AREA MUNICIPAL",
+            "VERSION": "1.2"
+        },
+        "D": {
+            "SERIE": "SERIE D",
+            "VERSION": "1.1"
+        },
+        "P": {
+            "SERIE": "SERIE P",
+            "VERSION": "1.2"
+        }
+    }
+}
