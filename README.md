@@ -1,4 +1,4 @@
-# ust-acumulado-app
+# Acumulado UST - Aplicativo
 
 ### Descripción
 
